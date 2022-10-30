@@ -10,11 +10,11 @@ This repository contains the implementation of
 
 Four datasets are included in our paper:
 
-SWAT and WADI: [[download-from-iTrust]]((https://itrust.sutd.edu.sg/itrust-labs_datasets/dataset_info/#wadi))
+SWAT and WADI: [[download-from-iTrust]]([iTrust Labs_Dataset Info - iTrust](https://itrust.sutd.edu.sg/itrust-labs_datasets/dataset_info/#wadi))
 
 SMD: [[download-from-OmniAnomaly]](https://github.com/smallcowbaby/OmniAnomaly)
 
-PSM: [[download-from-RANSynCoders]]((https://github.com/eBay/RANSynCoders))
+PSM: [[download-from-RANSynCoders]]([GitHub - eBay/RANSynCoders](https://github.com/eBay/RANSynCoders))
 
 ### Getting Started
 
